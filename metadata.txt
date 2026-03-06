@@ -1,7 +1,0 @@
-[general]
-name=fotoponto
-description=Tirar foto com câmera do Android, criar ponto GPS e fazer upload para o Google Drive automaticamente.
-author=FotoPonto
-icon=icon.svg
-version=2.0.0
-qfieldMinimumVersion=3.3
